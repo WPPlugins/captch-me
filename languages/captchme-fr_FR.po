@@ -1,0 +1,524 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Captchme Wordpress Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-04 12:09+0100\n"
+"PO-Revision-Date: 2017-07-04 12:09+0100\n"
+"Last-Translator: \n"
+"Language-Team: Captchme <contact@captchme.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /home/thibaultcaptchme/Documents/Boulot/plugin/wordpress\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SearchPath-0: src\n"
+
+#: src/captchme-options.php:27
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas les privilèges nécessaires pour accéder à cette page."
+
+#: src/captchme-options.php:43
+msgid "Captch Me Options"
+msgstr "Options Captch me"
+
+#: src/captchme-options.php:44
+msgid "Captch Me offers a monetized spam blocking solution."
+msgstr "Captch Me offre une solution anti-spam monétisée."
+
+#: src/captchme-options.php:45
+msgid "For details, visit the "
+msgstr "Pour plus de détails, merci de visiter le "
+
+#: src/captchme-options.php:45
+msgid "Attentive Ads website"
+msgstr "site d'Attentive Ads"
+
+#: src/captchme-options.php:52
+msgid "Save Changes"
+msgstr "Sauvegarder vos changements"
+
+#: src/captchme-options.php:64
+msgid "General Settings"
+msgstr "Configuration principale"
+
+#: src/captchme-options.php:66
+msgid "API Key Settings"
+msgstr "Configuration des clefs de l'API"
+
+#: src/captchme-options.php:68
+msgid "Comments Settings"
+msgstr "Configuration des commentaires"
+
+#: src/captchme-options.php:70
+msgid "Registration Settings"
+msgstr "Configuration des inscriptions"
+
+#: src/captchme-options.php:72
+msgid "Login Settings"
+msgstr "Configuration de la connexion"
+
+#: src/captchme-options.php:74
+msgid "Show Me Settings"
+msgstr "Réglages Show Me"
+
+#: src/captchme-options.php:76
+msgid "Leave Me Settings"
+msgstr "Réglages Leave Me"
+
+#: src/captchme-options.php:81
+msgid "Get your keys"
+msgstr "Obtenez vos clefs"
+
+#: src/captchme-options.php:82
+msgid "Public Key:"
+msgstr "Clef publique :"
+
+#: src/captchme-options.php:83
+msgid "Private Key:"
+msgstr "Clef privée :"
+
+#: src/captchme-options.php:84
+msgid "Authentification Key:"
+msgstr "Clef d'authentification :"
+
+#: src/captchme-options.php:89
+msgid "Language:"
+msgstr "Langue :"
+
+#: src/captchme-options.php:90
+msgid "Theme:"
+msgstr "Thème :"
+
+#: src/captchme-options.php:91
+msgid "Title:"
+msgstr "Titre :"
+
+#: src/captchme-options.php:92
+msgid "Instruction:"
+msgstr "Instruction :"
+
+#: src/captchme-options.php:93
+msgid "SSL:"
+msgstr "SSL :"
+
+#: src/captchme-options.php:94
+msgid "ABP:"
+msgstr "Détection d'Adblock :"
+
+#: src/captchme-options.php:100
+msgid "Activate Captch Me on comments:"
+msgstr "Activer les captcha Captch Me pour les commentaires :"
+
+#: src/captchme-options.php:101
+msgid "Automatically delete spam comments:"
+msgstr "Suppression automatique des spams :"
+
+#: src/captchme-options.php:102 src/captchme-options.php:109
+#: src/captchme-options.php:115
+msgid "Tabindex:"
+msgstr "Indice de tabulation (tabindex) :"
+
+#: src/captchme-options.php:107
+msgid "Activate Captch Me on registration form:"
+msgstr "Activer les captcha Captch Me pour les inscriptions"
+
+#: src/captchme-options.php:108
+msgid "Automatically delete spam registration:"
+msgstr "Suppression automatique des spams :"
+
+#: src/captchme-options.php:114
+msgid "Activate Captch Me on login form:"
+msgstr "Activer les captcha Captch Me pour les connexions :"
+
+#: src/captchme-options.php:120
+msgid "Activate Show Me:"
+msgstr "Activer Show Me :"
+
+#: src/captchme-options.php:121
+msgid "Position:"
+msgstr "Position :"
+
+#: src/captchme-options.php:126
+msgid "Activate Leave Me:"
+msgstr "Activer Leave Me :"
+
+#: src/captchme-options.php:127
+msgid "Message:"
+msgstr "Message :"
+
+#: src/captchme-options.php:158
+msgid "Invalid public key. It should be 64 alphanumeric characters long."
+msgstr ""
+"Clef publique invalide. La clef doit être constituée de 64 caractères "
+"alphanumériques."
+
+#: src/captchme-options.php:163
+msgid "Invalid private key. It should be 64 alphanumeric characters long."
+msgstr ""
+"Clef privée invalide. La clef doit être constituée de 64 caractères "
+"alphanumériques."
+
+#: src/captchme-options.php:168
+msgid ""
+"Invalid authentification key. It should be 64 alphanumeric characters long."
+msgstr ""
+"Clef d'authentification invalide. La clef doit être constituée de 64 "
+"caractères alphanumériques."
+
+#: src/captchme-options.php:208 src/captchme-options.php:213
+#: src/captchme-options.php:218
+msgid "Invalid tabindex. It should be a numerical value."
+msgstr "Indice de tabulation invalide. Un nombre entier est attendu."
+
+#: src/captchme-options.php:245
+msgid "French"
+msgstr "Français"
+
+#: src/captchme-options.php:246
+msgid "English"
+msgstr "Anglais"
+
+#: src/captchme-options.php:247
+msgid "Spanish"
+msgstr "Espagnol"
+
+#: src/captchme-options.php:248
+msgid "Web User"
+msgstr "Internaute"
+
+#: src/captchme-options.php:262 src/captchme-options.php:277
+msgid "Show"
+msgstr "Afficher"
+
+#: src/captchme-options.php:263 src/captchme-options.php:278
+msgid "Hide"
+msgstr "Masquer"
+
+#: src/captchme-options.php:292 src/captchme-options.php:307
+msgid "Activated"
+msgstr "Activé"
+
+#: src/captchme-options.php:293 src/captchme-options.php:308
+msgid "Deactivated"
+msgstr "Désactivé"
+
+#: src/captchme-options.php:369
+msgid "Gray"
+msgstr "Gris"
+
+#: src/captchme-options.php:370
+msgid "White"
+msgstr "Blanc"
+
+#: src/captchme-options.php:401
+msgid "Left"
+msgstr "Gauche"
+
+#: src/captchme-options.php:402
+msgid "Right"
+msgstr "Droite"
+
+#: src/captchme-options.php:466
+msgid "Captch Me settings"
+msgstr "Réglages Captch Me"
+
+#: src/captchme-options.php:467
+msgid "Settings"
+msgstr "Réglages"
+
+#: src/captchme-options.php:489
+msgid ""
+"You can use Access Me to protect links or to hide a part of the page while "
+"the captcha is not validate"
+msgstr ""
+"Vous pouvez utiliser Access Me pour protéger des liens ou masquer une partie "
+"de la page tant que le captcha n'est pas validé"
+
+#: src/captchme-options.php:490
+msgid ""
+"Use <code>[accessme]</code> tag (with required and optional attributes) to "
+"protect links."
+msgstr ""
+"Utilisez la balise <code>[accessme]</code> (avec les attributs obligatoires "
+"et optionnels) pour protéger des liens."
+
+#: src/captchme-options.php:491
+msgid ""
+"Use <code>[accessme] YOUR CONTENT TO HIDE [/accessme]</code> tag (with "
+"optional attributes) to hide a part of your page."
+msgstr ""
+"Utilisez la balise <code>[accessme] VOTRE CONTENU A MASQUER [/accessme]</"
+"code> (avec les attributs optionnels) pour masquer une partie de votre page."
+
+#: src/captchme-options.php:492
+msgid "See attributes"
+msgstr "Voir attributs"
+
+#: src/captchme-options.php:493
+msgid "Hide attributes"
+msgstr "Masquer attibuts"
+
+#: src/captchme-options.php:527
+msgid "Protect link attributes"
+msgstr "Attributs protection de lien"
+
+#: src/captchme-options.php:530 src/captchme-options.php:549
+#: src/captchme-options.php:563
+msgid "Attribute"
+msgstr "Attribut"
+
+#: src/captchme-options.php:532 src/captchme-options.php:551
+#: src/captchme-options.php:565
+msgid "Value"
+msgstr "Valeur"
+
+#: src/captchme-options.php:536
+msgid "List of URL (separated by commas) to protect with Access Me"
+msgstr "Liste d'URL (séparé par des virgules) à protéger avec Access Me"
+
+#: src/captchme-options.php:537 src/captchme-options.php:542
+msgid "or"
+msgstr "ou"
+
+#: src/captchme-options.php:537 src/captchme-options.php:542
+msgid "required"
+msgstr "obligatoire"
+
+#: src/captchme-options.php:541
+msgid "Text for each link"
+msgstr "Texte correspondant à chacun des liens"
+
+#: src/captchme-options.php:542
+msgid "same number as url"
+msgstr "même nombre que d'url"
+
+#: src/captchme-options.php:546
+msgid "Hide page attributes"
+msgstr "Attributs masquer la page"
+
+#: src/captchme-options.php:555
+msgid "Button (or link) title"
+msgstr "Titre du bouton (ou du lien)"
+
+#: src/captchme-options.php:556 src/captchme-options.php:570
+#: src/captchme-options.php:575 src/captchme-options.php:580
+#: src/captchme-options.php:587 src/captchme-options.php:592
+#: src/captchme-options.php:606
+msgid "optional"
+msgstr "optionnel"
+
+#: src/captchme-options.php:556 src/captchme-options.php:570
+#: src/captchme-options.php:575 src/captchme-options.php:580
+#: src/captchme-options.php:587 src/captchme-options.php:592
+#: src/captchme-options.php:606
+msgid "default"
+msgstr "par défaut"
+
+#: src/captchme-options.php:556 src/captchme.php:602
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: src/captchme-options.php:560
+msgid "Shared attributes"
+msgstr "Attributs communs"
+
+#: src/captchme-options.php:569
+msgid "Type of element (button or link)"
+msgstr "Type de l’élément (bouton ou lien)"
+
+#: src/captchme-options.php:574
+msgid "Element position (center, left or right) in the page"
+msgstr "Position de l'élément (centré, gauche ou droite) dans la page"
+
+#: src/captchme-options.php:579
+msgid "Message to be displayed above the Access Me module"
+msgstr "Message a afficher au dessus du module Access Me"
+
+#: src/captchme-options.php:580 src/captchme-options.php:606
+msgid "none"
+msgstr "aucun"
+
+#: src/captchme-options.php:584
+msgid "Makes Access Me mandatory. Possible values are:"
+msgstr "Rend Access Me obligatoire. Les valeurs possibles sont :"
+
+#: src/captchme-options.php:585
+msgid ""
+"Non-blocking (value to be used \"0\"). Access Me can be closed by the user "
+"by clicking on a cross in the top right of the screen"
+msgstr ""
+"Non bloquant (valeur à utiliser \"0\"). Access Me pourra être fermé par "
+"l'internaute en cliquant sur une croix en haut à droite de l'écran"
+
+#: src/captchme-options.php:586
+msgid ""
+"Blocking (value to be used \"1\"). Access Me can not be closed. The user "
+"must validate the captcha to continue"
+msgstr ""
+"Bloquant (valeur à utiliser \"1\"). Access Me ne pourra pas être fermé. "
+"L'internaute devra valider le captcha pour poursuivre"
+
+#: src/captchme-options.php:591
+msgid "This value determines the opacity of the background image used"
+msgstr "Cette valeur permet de définir l'opacité de l'image de fond utilisée"
+
+#: src/captchme-options.php:592
+msgid "from"
+msgstr "de"
+
+#: src/captchme-options.php:592
+msgid "to"
+msgstr "à"
+
+#: src/captchme-options.php:592
+msgid "step"
+msgstr "pas"
+
+#: src/captchme-options.php:596
+msgid ""
+"URL of a style sheet to define the background image used for Access Me. This "
+"sheet should follow the template below:"
+msgstr ""
+"URL d'une feuille de style pour définir l'image de fond utilisée pour Access "
+"Me. Cette feuille doit suivre le modèle ci-dessous :"
+
+#: src/captchme-options.php:610
+msgid "Access Me tag generator"
+msgstr "Générateur de balise Access Me"
+
+#: src/captchme-options.php:612
+msgid "Protect link"
+msgstr "Protection de lien"
+
+#: src/captchme-options.php:613
+msgid "Hide page"
+msgstr "Masquer la page"
+
+#: src/captchme-options.php:622
+msgid "button"
+msgstr "bouton"
+
+#: src/captchme-options.php:622
+msgid "link"
+msgstr "lien"
+
+#: src/captchme-options.php:623
+msgid "center"
+msgstr "centré"
+
+#: src/captchme-options.php:623
+msgid "left"
+msgstr "gauche"
+
+#: src/captchme-options.php:623
+msgid "right"
+msgstr "droite"
+
+#: src/captchme-options.php:625
+msgid "non-blocking"
+msgstr "non bloquant"
+
+#: src/captchme-options.php:625
+msgid "blocking"
+msgstr "bloquant"
+
+#: src/captchme-options.php:629
+msgid "Generate Access Me tag"
+msgstr "Générer balise Access Me"
+
+#: src/captchme-options.php:660
+msgid "Error url and urltext are required"
+msgstr "Erreur : url et urltext sont obligatoires"
+
+#: src/captchme-options.php:665 src/captchme.php:585
+msgid "Number of urls and texts do not match"
+msgstr "Le nombre D’URL et de texte ne correspond pas"
+
+#: src/captchme-options.php:674
+msgid "YOUR CONTENT TO HIDE"
+msgstr "VOTRE CONTENU A MASQUER"
+
+#: src/captchme-options.php:682
+msgid "Add this tag in your page:"
+msgstr "Ajouter cette balise à votre page"
+
+#: src/captchme-options.php:696
+msgid "Captch Me is compatible with the plugin Contact Form 7"
+msgstr "Captch Me est compatible avec les formulaires du plugin Contact Form 7"
+
+#: src/captchme-options.php:698
+msgid "Install and activate the plugin"
+msgstr "Installez et activez le plugin"
+
+#: src/captchme-options.php:699
+msgid "Create your form"
+msgstr "Créez votre formulaire"
+
+#: src/captchme-options.php:700 src/captchme.php:465
+msgid "Add tag"
+msgstr "Ajouter la balise"
+
+#: src/captchme-options.php:700 src/captchme.php:465
+msgid "before tag"
+msgstr "avant la balise"
+
+#: src/captchme-options.php:701
+msgid "Add this form to your page"
+msgstr "Ajouter ce formulaire à votre page"
+
+#: src/captchme.php:267 src/captchme.php:278 src/captchme.php:369
+#: src/captchme.php:379 src/captchme.php:579 src/captchme.php:581
+#: src/captchme.php:585
+msgid "ERROR"
+msgstr "ERREUR"
+
+#: src/captchme.php:267 src/captchme.php:369 src/captchme.php:435
+msgid "Please fill an the Captch Me form."
+msgstr "Merci de remplir le captcha Captch Me."
+
+#: src/captchme.php:278 src/captchme.php:379 src/captchme.php:447
+msgid "Captch Me captcha response was incorrect."
+msgstr "Réponse incorrecte au captcha Captch Me."
+
+#: src/captchme.php:435 src/captchme.php:447
+msgid ""
+"If Captch Me captcha is not visible, thanks to deactivate your ad blocker "
+"and to refresh the page."
+msgstr ""
+"Si le captcha Captch Me n'est pas visible, merci de désactiver votre "
+"bloqueur de publicités et de recharger la page."
+
+#: src/captchme.php:471
+msgid "Insert Tag"
+msgstr "Insérer la balise"
+
+#: src/captchme.php:579
+msgid "No url found, use \"url\" attribute in [accessme] tag"
+msgstr ""
+"Aucun url trouvé, utilisez l'attribut \"url\" dans la balise [accessme]"
+
+#: src/captchme.php:581
+msgid "No urltext found, use \"urltext\" attribute in [accessme] tag"
+msgstr ""
+"Aucun urltext trouvé, utilisez l'attribut \"urltext\" dans la balise "
+"[accessme]"
+
+#~ msgid "Captch Me website"
+#~ msgstr "site de Captch Me"
+
+#~ msgid "Format:"
+#~ msgstr "Format:"
+
+#~ msgid "Classic"
+#~ msgstr "Classic"
+
+#~ msgid "Wide"
+#~ msgstr "Wide"
+
+#~ msgid "Afficher"
+#~ msgstr "Afficher"
+
+#~ msgid "Masquer"
+#~ msgstr "Masquer"
